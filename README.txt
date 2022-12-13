@@ -11,7 +11,7 @@ X-ray images having a wire or plate attached with the implant were excluded. Aut
 implant X-ray images
 
 This Project implements three modern attention-free, multi-layer perceptron (MLP) based models for image 
-classification, demonstrated on the CIFAR-100 dataset:
+classification:
 
 The MLP-Mixer model, by Ilya Tolstikhin et al., based on two types of MLPs.
 The FNet model, by James Lee-Thorp et al., based on unparameterized Fourier Transform.
