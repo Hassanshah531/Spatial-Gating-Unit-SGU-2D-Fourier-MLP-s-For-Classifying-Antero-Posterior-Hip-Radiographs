@@ -10,8 +10,8 @@ X-ray images for the patients with fixed (control group) and loosened hip implan
 X-ray images having a wire or plate attached with the implant were excluded. Authors managed to collect 200 hip
 implant X-ray images
 
-This Project implements three modern attention-free, multi-layer perceptron (MLP) based models for image 
-classification:
+This Project implements three modern attention-free, multi-layer perceptron (MLP) based models for Anteroposterior
+Radiograph (Aseptic Loose Hip Ɪmplant X-Ray) classification:
 
 The MLP-Mixer model, by Ilya Tolstikhin et al., based on two types of MLPs.
 The FNet model, by James Lee-Thorp et al., based on unparameterized Fourier Transform.
